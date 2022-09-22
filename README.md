@@ -1,2 +1,2 @@
-# dimateniuta-JSFE2022Q1
-Private repository for @dimateniuta
+# Shelter
+https://dimateniuta.github.io/Shelter/pages/main/index.html
